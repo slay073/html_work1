@@ -9,6 +9,6 @@ This repository contains an HTML file (`index.html`) that displays my name, regi
 4. Created a new GitHub repository and pushed (uploaded) the file from my computer to GitHub.
 
 ## About My System
-- Operating System: [e.g., Windows 10 / macOS / Linux]
-- Editor Used: [e.g., VS Code, Notepad, Sublime Text]
-- Git Version: [e.g., 2.30.0]
+- Operating System: [Windows 10]
+- Editor Used: [Notepad]
+- Git Version: [2.30.0]
